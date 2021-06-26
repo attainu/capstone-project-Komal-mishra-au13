@@ -1,7 +1,0 @@
-Project day -1 work
-
-sidebar , sidebar row , search bar in nav and header part  css layout completed completed
-
-Project day -2 work
-
-recommended video, video and video row completed
