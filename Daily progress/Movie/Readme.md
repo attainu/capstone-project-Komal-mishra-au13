@@ -92,7 +92,8 @@ FOR API KEY  ---
    link - https://www.themoviedb.org/
 
 Project Deployment link- 
-
+Frontend link -https://theat-play.netlify.app/
+Backend link - https://vedio-play.herokuapp.com/
 
 
 
